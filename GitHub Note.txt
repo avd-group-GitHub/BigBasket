@@ -1,0 +1,6 @@
+Repo:
+HTTPS:https://github.com/avd-group-GitHub/BigBasket.git
+SSH :git@github.com:avd-group-GitHub/BigBasket.git
+
+Team URL:
+https://github.com/orgs/avd-group-GitHub/teams/bigbasket-dev
