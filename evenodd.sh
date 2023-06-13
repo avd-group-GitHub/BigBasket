@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash -x -
 
 #This program is for checking a given number is an even or odd number
 
