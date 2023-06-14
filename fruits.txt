@@ -6,3 +6,5 @@ Qiwi
 Papaya
 Banana
 Guava
+orange
+Banana 
