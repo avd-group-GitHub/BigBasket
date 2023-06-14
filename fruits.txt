@@ -4,6 +4,5 @@ Jackfruit
 Dragon Fruit
 Qiwi
 Papaya
-Banana -
-
-x
+Banana
+Guava
